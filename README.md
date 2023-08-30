@@ -2,4 +2,4 @@
 Introductory Programming (Java)
   
 * The showcase project for this course exhibits all the skills learned throughout the various weekly assignments and discussions.
-* (Throughout documentation found in this repository, CMIS141 will be seen in place of CMSC115.)
+* __Due to a name change in the course in the 2024 catalog, CMIS141 will be seen in place of CMSC115 throughout documentation found in this repository.__
